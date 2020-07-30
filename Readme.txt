@@ -1,6 +1,6 @@
 # Introduction
 
-Logistic Regression basics and custom implementation. Also a projects based on it.
+Logistic Regression basics and custom implementation.
 
 
 # Acknowledgement:
